@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/DiaryPage",
+    "pages/Index",
+    "pages/MainPage"
+  ]
+}
